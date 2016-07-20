@@ -1,0 +1,8 @@
+sudo: false
+language: python
+python: 3.4
+
+cache: false
+branches: 
+  only:
+    - master
